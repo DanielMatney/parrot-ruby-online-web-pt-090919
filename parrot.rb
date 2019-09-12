@@ -3,3 +3,5 @@
 def parrot(string)
   p "#{string}"
 end
+
+parrot
